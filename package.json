@@ -3,7 +3,11 @@
 	"displayName": "Purple & Teal Theme",
 	"description": "A dark theme with purple and teal colors",
 	"version": "1.0.0",
-	"publisher": "MzelleLilas",
+	"publisher": "mzellelilas",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MzelleLilas/mzellelilas.purple-teal-theme"
+	},
 	"engines": {
 		"vscode": "^1.0.0"
 	},

@@ -1,0 +1,25 @@
+{
+	"name": "purple-teal-theme",
+	"displayName": "Purple & Teal Theme",
+	"description": "A dark theme with purple and teal colors",
+	"version": "1.0.0",
+	"publisher": "MzelleLilas",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Purple & Teal",
+				"uiTheme": "vs-dark",
+				"path": "./purple-teal-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 58397
+	}
+}
